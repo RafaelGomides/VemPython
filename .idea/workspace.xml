@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c68f0927-df52-4cb7-8125-6960e3c39811" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/rafael.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/aulas/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/exe001.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/exe002.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/exe003.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/exe004.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/exe005.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/exe006.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/exe007.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/exe008.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/exe009.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/exe010.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/exe011.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/exe012.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/exe013.py" />
+      <change beforePath="$PROJECT_DIR$/desafios/exe006.py" afterPath="$PROJECT_DIR$/desafios/exe006.py" />
+      <change beforePath="$PROJECT_DIR$/desafios/exe007.py" afterPath="$PROJECT_DIR$/desafios/exe007.py" />
+      <change beforePath="$PROJECT_DIR$/desafios/exe008.py" afterPath="$PROJECT_DIR$/desafios/exe008.py" />
+      <change beforePath="$PROJECT_DIR$/desafios/exe009.py" afterPath="$PROJECT_DIR$/desafios/exe009.py" />
+      <change beforePath="$PROJECT_DIR$/desafios/exe010.py" afterPath="$PROJECT_DIR$/desafios/exe010.py" />
+      <change beforePath="$PROJECT_DIR$/desafios/exe011.py" afterPath="$PROJECT_DIR$/desafios/exe011.py" />
+      <change beforePath="$PROJECT_DIR$/desafios/exe012.py" afterPath="$PROJECT_DIR$/desafios/exe012.py" />
+      <change beforePath="$PROJECT_DIR$/desafios/exe013.py" afterPath="$PROJECT_DIR$/desafios/exe013.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,81 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="exe006.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/desafios/exe006.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exe007.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/desafios/exe007.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="100" lean-forward="false" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exe008.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/desafios/exe008.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="113" lean-forward="false" selection-start-line="3" selection-start-column="113" selection-end-line="3" selection-end-column="113" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exe009.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/desafios/exe009.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="100" lean-forward="false" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exe010.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/desafios/exe010.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exe011.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/desafios/exe011.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exe012.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/desafios/exe012.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="110" lean-forward="false" selection-start-line="3" selection-start-column="110" selection-end-line="3" selection-end-column="110" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exe013.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="exe013.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/desafios/exe013.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="100" lean-forward="false" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
+            <state relative-caret-position="126">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,6 +49,7 @@
         <option value="$PROJECT_DIR$/desafios/exe002.py" />
         <option value="$PROJECT_DIR$/desafios/exe003.py" />
         <option value="$PROJECT_DIR$/desafios/exe004.py" />
+        <option value="$PROJECT_DIR$/desafios/exe005.py" />
         <option value="$PROJECT_DIR$/desafios/exe006.py" />
         <option value="$PROJECT_DIR$/desafios/exe007.py" />
         <option value="$PROJECT_DIR$/desafios/exe008.py" />
@@ -137,7 +58,6 @@
         <option value="$PROJECT_DIR$/desafios/exe011.py" />
         <option value="$PROJECT_DIR$/desafios/exe012.py" />
         <option value="$PROJECT_DIR$/desafios/exe013.py" />
-        <option value="$PROJECT_DIR$/desafios/exe005.py" />
       </list>
     </option>
   </component>
@@ -257,8 +177,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exe005">
-    <configuration name="exe001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.exe013">
+    <configuration name="exe009" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -270,13 +190,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="VemPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/exe001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/exe009.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="exe002" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe010" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -288,13 +208,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="VemPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/exe002.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/exe010.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="exe003" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe011" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -306,13 +226,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="VemPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/exe003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/exe011.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="exe004" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe012" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -324,13 +244,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="VemPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/exe004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/exe012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="exe005" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe013" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -342,26 +262,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="VemPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/exe005.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/exe013.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.exe001" />
-      <item index="1" class="java.lang.String" itemvalue="Python.exe002" />
-      <item index="2" class="java.lang.String" itemvalue="Python.exe003" />
-      <item index="3" class="java.lang.String" itemvalue="Python.exe004" />
-      <item index="4" class="java.lang.String" itemvalue="Python.exe005" />
+      <item index="0" class="java.lang.String" itemvalue="Python.exe009" />
+      <item index="1" class="java.lang.String" itemvalue="Python.exe010" />
+      <item index="2" class="java.lang.String" itemvalue="Python.exe011" />
+      <item index="3" class="java.lang.String" itemvalue="Python.exe012" />
+      <item index="4" class="java.lang.String" itemvalue="Python.exe013" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.exe005" />
-        <item index="1" class="java.lang.String" itemvalue="Python.exe004" />
-        <item index="2" class="java.lang.String" itemvalue="Python.exe003" />
-        <item index="3" class="java.lang.String" itemvalue="Python.exe002" />
-        <item index="4" class="java.lang.String" itemvalue="Python.exe001" />
+        <item index="0" class="java.lang.String" itemvalue="Python.exe013" />
+        <item index="1" class="java.lang.String" itemvalue="Python.exe012" />
+        <item index="2" class="java.lang.String" itemvalue="Python.exe011" />
+        <item index="3" class="java.lang.String" itemvalue="Python.exe010" />
+        <item index="4" class="java.lang.String" itemvalue="Python.exe009" />
       </list>
     </recent_temporary>
   </component>
@@ -392,11 +312,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -447,62 +366,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafios/exe007.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="100" lean-forward="false" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafios/exe008.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="113" lean-forward="false" selection-start-line="3" selection-start-column="113" selection-end-line="3" selection-end-column="113" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafios/exe009.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="100" lean-forward="false" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafios/exe010.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafios/exe011.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafios/exe012.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="110" lean-forward="false" selection-start-line="3" selection-start-column="110" selection-end-line="3" selection-end-column="110" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafios/exe013.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="100" lean-forward="false" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/desafios/exe004.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -521,8 +384,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/desafios/exe006.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafios/exe007.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafios/exe008.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="60" lean-forward="false" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafios/exe009.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafios/exe010.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafios/exe011.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafios/exe012.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafios/exe013.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
