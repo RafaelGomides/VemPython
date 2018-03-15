@@ -5,3 +5,8 @@
 # Quantas vezes aparece a letra "A"
 # Em que posição ela aparece a primeira vez
 # Em que posição ela aparece pela ultima vez
+
+frase = str(input('Escreve uma parada ai: ')).strip()
+print('A letra A aparece {} vezes na frase.'.format(frase.lower().count('a')))
+print('A letra A aparece na {} posição'.format(1+frase.lower().find('a')))
+print('A ultima letra A aparece na {} posição'.format(1+frase.lower().rfind('a')))
