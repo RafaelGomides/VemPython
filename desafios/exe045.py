@@ -1,7 +1,7 @@
 # Projeto: VemPython/exe045
 # Autor: rafael
 # Data: 16/03/18 - 11:01
-# Objetivo:
+# Objetivo: TODO Criar um programa que faça com que o comptador jogue JOKENPO com o usuário
 
 from time import sleep
 from random import randint
@@ -47,7 +47,7 @@ while opc == 1:
         uv += 1
 
     # Placar
-    print('O PLACAR ESTÁ:\n\033[34mUSUÁRIO\033[m \033[32m{}\033[m X \033[32m{}\033[m \033[36mCOMPUTADOR\033[m'.format(uv, cv))
+    print('O PLACAR ESTÁ:\n\033[34mUSUÁRIO\033[m \033[32m{}\033[m X \033[32m{}\033[m \033[36mCPU\033[m'.format(uv, cv))
 
     sleep(3)
 
@@ -56,9 +56,3 @@ while opc == 1:
                     '\n\033[4;31m2 - Para não\033[m'
                     '\nOpção: '))
 
-    if name == 'nt':
-        system('cls')
-    elif name == 'posix':
-        print('Aqui ele não limpa a tela')
-    else:
-        system('clear')
