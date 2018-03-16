@@ -5,7 +5,6 @@
 
 from time import sleep
 from random import randint
-from os import system, name
 
 opc = 1
 uv = 0
