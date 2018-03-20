@@ -9,4 +9,9 @@ print('Sistema Conversão')
 
 num = int(input('Informe um número inteiro: '))
 
-print('Hexadecimal: {}\nOctal: {}\nBinário: {}'.format(hex(num)[2:], oct(num)[2:], bin(num)[2:]))
+print('Hexadecimal: {}\n'
+      'Octal: {}\n'
+      'Binário: {}'
+      .format(hex(num)[2:].upper(),
+              oct(num)[2:],
+              bin(num)[2:]))
